@@ -1,0 +1,8 @@
+section,
+h1 {
+  display: grid;
+  margin: 5rem auto;
+  width: min(90%, 75rem);
+  justify-items: center;
+  grid-auto-flow: column;
+}
